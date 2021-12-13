@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt_3.16.0.v20181206-0815.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.annotation_1.1.400.v20180921-1416.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.annotation_2.2.200.v20180921-1416.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.apt.core_3.6.200.v20181008-0703.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.apt.pluggable.core_1.2.300.v20181206-1038.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.apt.ui_3.6.200.v20180921-1416.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.compiler.apt_1.3.400.v20181205-0900.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.compiler.tool_1.2.400.v20181113-0926.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.core_3.16.0.v20181130-1748.jar" sourcepath="C:/Users/water/AppData/Local/Temp/.org.sf.feeling.decompiler1638671076447/source/org.eclipse.jdt.core-3.16.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.core.manipulation_1.11.0.v20181126-0647.jar" sourcepath="C:/Users/water/AppData/Local/Temp/.org.sf.feeling.decompiler1638671076447/source/org.eclipse.jdt.core.manipulation-1.11.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.debug.ui_3.10.100.v20181120-0542.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.doc.user_3.15.100.v20181206-0718.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.junit_3.11.200.v20181016-1025.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.junit.core_3.10.200.v20181025-0713.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.junit.runtime_3.4.900.v20181012-1045.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.junit4.runtime_1.1.900.v20181123-0726.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.junit5.runtime_1.0.300.v20181003-1407.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar"/>
+	<classpathentry exported="true" kind="lib" path="org.eclipse.jdt.ui_3.16.0.v20181203-1249.jar" sourcepath="C:/Users/water/AppData/Local/Temp/.org.sf.feeling.decompiler1638671076447/source/org.eclipse.jdt.ui-3.16.0-sources-1638676270975.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.annotation_1.1.400.v20180921-1416.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.annotation_2.2.200.v20180921-1416.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.apt.core_3.6.200.v20181008-0703.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.apt.pluggable.core_1.2.300.v20181206-1038.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.apt.ui_3.6.200.v20180921-1416.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.compiler.apt_1.3.400.v20181205-0900.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.compiler.tool_1.2.400.v20181113-0926.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.core.manipulation_1.11.0.v20181126-0647.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.core_3.16.0.v20181130-1748.jar" sourcepath="C:/Users/water/AppData/Local/Temp/.org.sf.feeling.decompiler1638671076447/source/org.eclipse.jdt.core-3.16.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.debug.ui_3.10.100.v20181120-0542.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.doc.user_3.15.100.v20181206-0718.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.junit.core_3.10.200.v20181025-0713.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.junit.runtime_3.4.900.v20181012-1045.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.junit_3.11.200.v20181016-1025.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.junit4.runtime_1.1.900.v20181123-0726.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.junit5.runtime_1.0.300.v20181003-1407.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.launching_3.12.0.v20181119-1621.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt.ui_3.16.0.v20181203-1249.jar" sourcepath="C:/Users/water/AppData/Local/Temp/.org.sf.feeling.decompiler1638671076447/source/org.eclipse.jdt.ui-3.16.0-sources-1638676270975.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/org.eclipse.jdt_3.16.0.v20181206-0815.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/pleiades/eclipse/plugins/javax.servlet.jsp_2.2.0.v201112011158.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
